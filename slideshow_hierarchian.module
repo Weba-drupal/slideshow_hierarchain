@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Slideshow hierarchian feature.
+ */
+
+include_once 'slideshow_hierarchian.features.inc';
